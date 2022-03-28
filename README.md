@@ -35,7 +35,7 @@ ou z est la loi normale donnée par l'équation :
 
 une loi normale de moyenne (**mean**) nulle, et d'ecart type (**sigma**) unitaire est appelée **loi normale centrée réduite** ou **loi normale standard**. Dans le code, mean est fixée à 0 et sigma à 1, donc z est une loi normale standard.
 
-Pour ce TP, il n'est pas de connaitre ces notions qui sont déjà implementés. Je laisse neanmoins le lien suivant pour ceux à qui ça intéresse. [Loi normale](https://fr.wikipedia.org/wiki/Loi_normale)
+Pour ce TP, il n'est pas utile de connaitre ces notions qui sont déjà implementés. Je laisse neanmoins le lien suivant pour ceux à qui ça intéresse. [Loi normale](https://fr.wikipedia.org/wiki/Loi_normale)
 
 #### 1.1. Mémoire paginée et mémoire épinglé
 
